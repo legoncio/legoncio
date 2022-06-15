@@ -1,6 +1,6 @@
 ### Hi there, I'm Leon Gonzalez (AKA legoncio) 👋
 
-I am a full stack web developer, focusing on Nodejs, React, Redux and Mongodb
+I am a full stack web developer, focusing on Nodejs, React, Express and Mongodb
 
 I'm currently studying a master's degree in full stack web development at Three Points digital school and also I am learning Python with 100 days of code
 
