@@ -2,7 +2,7 @@
 
 I am a full stack web developer, focusing on Nodejs, React, Express and Mongodb
 
-I'm currently studying a master's degree in full stack web development at Three Points digital school and also I am learning Python with 100 days of code
+I have a master's degree in full stack web development from ThreePoints digital school
 
 You can look for me in the web by searching 'legoncio'. Is my nickname and gamertag for everything! (except for Linkedin, it doesn't sound too professional I guess...)
 
